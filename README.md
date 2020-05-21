@@ -11,7 +11,7 @@
 |1月|[《习近平主席新年贺词 2020.01.01》]()<br>|
 |2月|[《武汉新型冠状病毒疫情 2020.02.02》](https://github.com/baohenglin/quiet-years/blob/master/Articles/%E6%AD%A6%E6%B1%89%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85.md)<br>|
 |3月|[《《围城》摘录 2020.03.03》](https://github.com/baohenglin/quiet-years/blob/master/Articles/2020.03.03.md)<br>[《2020年度“专业技能”阅读计划 2020.03.04》](https://github.com/baohenglin/quiet-years/blob/master/Articles/2020%E5%B9%B4%E5%BA%A6%E2%80%9C%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E2%80%9D%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92.md)<br>[《2020年度“综合技能”阅读计划 2020.03.06》](https://github.com/baohenglin/quiet-years/blob/master/Articles/2020%E5%B9%B4%E5%BA%A6%E2%80%9C%E7%BB%BC%E5%90%88%E6%8A%80%E8%83%BD%E2%80%9D%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92.md)<br>[《笔记读书法 2020.03.10》](https://github.com/baohenglin/quiet-years/blob/master/Articles/%E7%AC%94%E8%AE%B0%E8%AF%BB%E4%B9%A6%E6%B3%95.md)<br>|
-|5月|[《对技术的新认知 2020.05.21》]()<br>|
+|5月|[《对技术的新认知 2020.05.21》](https://github.com/baohenglin/quiet-years/blob/master/Articles/2020.05.21%E5%AF%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E6%96%B0%E8%AE%A4%E7%9F%A5.md)<br>|
 
 ## *📖2019年*
 |月份|文章|备注|
